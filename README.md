@@ -1,0 +1,1 @@
+# golden-rules-idea-plugin
